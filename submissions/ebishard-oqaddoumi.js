@@ -1,0 +1,1 @@
+require('readline').createInterface(process.stdin,0).on('line',a=>console.log(-a.split(' ').reduce((c,b)=>c-b,0)))

@@ -1,0 +1,1 @@
+process.stdin.on('data',s=>console.log(s.toString().split(" ").reduce((a,b)=>a-b*-1)))

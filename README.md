@@ -1,4 +1,4 @@
-Code Golf: Round 1
+Code Golf: Hole 1
 ===========================
 
 ## Introduction

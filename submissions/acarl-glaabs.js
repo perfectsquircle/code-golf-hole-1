@@ -1,0 +1,1 @@
+process.stdin.on('data',c=>console.log(eval(`${c}`.replace(/ /g,'- -'))))
